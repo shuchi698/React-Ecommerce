@@ -1,10 +1,8 @@
+#I have pushed my code in "master branch".
+Please check that.
+
 # Live Demo on Netlify Can be Found Here: 
-
-https://storied-longma-57dac7.netlify.app/
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://633ffc03708f0b358e491659--clever-longma-eddaa9.netlify.app/home
 
 ## Available Scripts
 

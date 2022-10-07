@@ -2,7 +2,7 @@
 Please check that.
 
 # Live Demo on Netlify Can be Found Here: 
-https://633ffc03708f0b358e491659--clever-longma-eddaa9.netlify.app/home
+ https://storied-longma-57dac7.netlify.app/
 
 ## Available Scripts
 
